@@ -1,4 +1,5 @@
-
+//add for git commit
+//nothing
 //(1) there is no error for compiling JNIDemo.java first and then native.c
 //(2) you should run command before run this program:
 //"export LD_LIBRARY_PATH:."

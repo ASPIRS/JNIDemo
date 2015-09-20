@@ -1,4 +1,5 @@
-
+//add for git commit
+//nothing
 #include <stdio.h>
 //#include <jni.h>
 #include </usr/lib/jvm/java-1.7.0-openjdk-i386/include/jni.h> //loacte at /usr/lib/jvm/java-1.7.0-openjdk-i386/include/(PC)
